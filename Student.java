@@ -1,5 +1,4 @@
 package oopsconcepts;
-import java.util.Scanner;
 
 public class Student {
 	int id;
@@ -42,7 +41,7 @@ public class Student {
 	std2.getName();
 	std2.getFees();
 	
-	
+
 	}
 }
 		
